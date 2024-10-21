@@ -35,7 +35,7 @@ else:
 
 # Berikut Hasil di Visual Studio Code
 
-     ![WhatsApp Image 2024-10-21 at 08 14 58](https://github.com/user-attachments/assets/5e84aa04-91ee-42b6-8e9d-ead73d24b172)
+     (https://github.com/user-attachments/assets/5e84aa04-91ee-42b6-8e9d-ead73d24b172)
 
 
 
@@ -94,7 +94,7 @@ else:
     
 # Hasil Screenshot di Visual Studio Code 
    
-   ![WhatsApp Image 2024-10-21 at 08 21 06](https://github.com/user-attachments/assets/bedcb792-50c2-477e-9e0f-6cabb06b6da8)
+(https://github.com/user-attachments/assets/bedcb792-50c2-477e-9e0f-6cabb06b6da8)
 
 
 
@@ -200,6 +200,7 @@ Print()
 secara default, fungsi Print() akan mengakhiri dengan baris baru, dan akan secra otomatis karakter baris baru di akhir outputnya.
 
 berikut hasil screenshot dari pemrograman Penggunaan END
+
    ![WhatsApp Image 2024-10-21 at 07 57 20 (1)](https://github.com/user-attachments/assets/55276792-b599-4429-a647-d6fe006428bd)
 
 
