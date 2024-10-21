@@ -35,8 +35,7 @@ else:
 
 # Berikut Hasil di Visual Studio Code
 
-    ![WhatsApp Image 2024-10-21 at 08 14 58 (1)](https://github.com/user-attachments/assets/8ee1c039-5dfd-4428-ba3a-6f1f9f3fbcd3)
-
+    ![Screenshot 2024-10-19 095852](https://github.com/user-attachments/assets/18c4eb26-8df1-45df-afb3-dee64f83a5f9)
 
 
 
