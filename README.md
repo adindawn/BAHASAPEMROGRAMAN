@@ -36,7 +36,8 @@ while True:
 
 # Berikut Hasil di Visual Studio Code
 
-    ![Screenshot 2024-10-19 095852](https://github.com/user-attachments/assets/18c4eb26-8df1-45df-afb3-dee64f83a5f9)
+    ![Screenshot (14)](https://github.com/user-attachments/assets/c2ac411d-b289-4600-bbbe-0ae6fe628a78)
+
 
 
 
@@ -71,6 +72,7 @@ while True:
   2. Simpan kode program dalam file bernama pemprograman.py
   3. Bukan terminal atau command prompt
   4. Jalankan program dengan perintah berikut:
+     
          python pemrograman.py
 
 # Menentukan 3 Bilangan Terbesar
@@ -95,7 +97,8 @@ else:
     
 # Hasil Screenshot di Visual Studio Code 
    
-      ![WhatsApp Image 2024-10-21 at 08 21 06 (1)](https://github.com/user-attachments/assets/0ac9c3a8-aa3c-407b-974d-f764c3ae921f)
+      ![Screenshot (12)](https://github.com/user-attachments/assets/6fd42b73-fb26-4f66-8574-84ded7b186c0)
+
 
 
 
@@ -165,7 +168,8 @@ else:
 
 # Praktikum 3
 # LATIHAN 1
-    ![WhatsApp Image 2024-10-21 at 08 28 05](https://github.com/user-attachments/assets/cabd5ebf-04df-4f7e-81b3-46b223e3b0ca)
+
+    ![Screenshot (15)](https://github.com/user-attachments/assets/c89d890d-1f72-45d7-b6bb-0f34904607fe)
 
 
 
@@ -173,26 +177,23 @@ else:
 
 
 ``` PYTHON
-(#penggunaan end
-print('A', end='')
-print('B', end='')
-print('C', end='')
-print()
-print('X')
-print('Y')
-print('z')
+(#Penggunaan end
+   print('A', end='')
+   print('B', end='')
+   print('C', end='')
+   print()
+   print('X')
+   print('Y')
+   print('Z')
 
-#penggunaan separator
-w, x, y, z = 10, 15, 20, 25
-print(w, x, y, z)
-print(w, x, y, z, sep=',')
-print(w, x, y, z, sep='')
-print(w, x, y, z, sep=':')
-print(w, x, y, z, sep='.....') )
+ #Pengunaan Separator
+   w, x, y, z = 10, 15, 20, 25
+   print(w, x, y, z)
+   print(w, x, y, z, sep=',')
+   print(w, x, y, z, sep='')
+   print(w, x, y, z, sep=':')
+   print(w, x, y, z, sep='-----')
 ````
-
-
-
 
 Parameter end dalam fungsi Print() di Python di gunakan untuk menambahkan string("")apapun diakhiri dan mengeluarkan pertanyaan print
 
@@ -200,10 +201,12 @@ Print()
 
 secara default, fungsi Print() akan mengakhiri dengan baris baru, dan akan secra otomatis karakter baris baru di akhir outputnya.
 
+
 berikut hasil screenshot dari pemrograman Penggunaan END
 
-   ![WhatsApp Image 2024-10-21 at 07 57 20 (1)](https://github.com/user-attachments/assets/55276792-b599-4429-a647-d6fe006428bd)
+   ![WhatsApp Image 2024-10-21 at 07 57 20 (2)](https://github.com/user-attachments/assets/0522fa82-f7fb-410d-806d-d8dfa656f907)
 
+   
 
 Penggunaan Seperator ini menentukan pembatasan yang digunakan untuk memisahkan sting, seperator dapat berupa karakter. Jika tidak ditemukan, maka python akan menggunakan spasi sebagai pemisah.
 
