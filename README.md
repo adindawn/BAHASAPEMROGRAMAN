@@ -207,6 +207,7 @@ berikut hasil screenshot dari pemrograman Penggunaan END
 Penggunaan Seperator ini menentukan pembatasan yang digunakan untuk memisahkan sting, seperator dapat berupa karakter. Jika tidak ditemukan, maka python akan menggunakan spasi sebagai pemisah.
 
 berikut hasil screenshot dari pemrograman penggunaan seperator 
+
    ![WhatsApp Image 2024-10-21 at 08 40 57](https://github.com/user-attachments/assets/20b1d674-69ce-436c-936e-d7f049bbb9f8)
 
 
