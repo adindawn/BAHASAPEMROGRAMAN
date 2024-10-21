@@ -24,9 +24,13 @@ else:
 
     
 Masukkan bilangan (tekan 0 untuk berhenti): 80
+
 Masukkan bilangan (tekan 0 untuk berhenti): 60
+
 Masukkan bilangan (tekan 0 untuk berhenti): 20
+
 Masukkan bilangan (tekan 0 untuk berhenti): 0
+
 Bilangan terbesar adalah : 80.0
 
 # Berikut Hasil Screenshotnya 
