@@ -87,3 +87,64 @@ else:
 # Hasil Screenshot di Visual Studio Code 
 
 
+
+
+
+
+
+
+
+# Berikut adalah Floechartnya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Penjelasannya Kode
+  1. Input Bilangan: Program meminta pengguna memasukkan tiga bilangan menggunakan fungsi input() dan mengonversinya menjadi bilangan bulat (int), 
+     kemudian di simpan ke variable a, b, dan c.
+  2. Logika Penentuan Bilangan Terbesar:
+         * Program menggunakan struktur kondisi if-elif-else untuk membandingkan ketiga bilangan.
+         * Bilangan A lebih besar dari B dan C, program akan mencetak bahwa A adalah bilangan terbesar.
+         * jika B lebihb besar dari A dan C, program akan mencetak bahwa B adalah bilangan terbesar.
+         * Jika tidak ada kondisi yang terpenuhi, program akan menganggap bahwa C adalah bilangan terbesar dan mencetaknya.
+  3. Output: Program akan mencetak bilangan terbesar yang ditemukan di antara ketiga bilangan yang diinputkan oleh pengguna.
+
+# Contoh Eksekusi Program
+# Contoh 1:
+     Pengguna memasukkan tiga bilangan, yaitu 30, 60, 10
+
+     Masukkan bilangan pertama: 30
+     Masukkan bilangan kedua: 60
+     Masukkan bilangan ketiga: 10
+     Bilangan terbesar adalah 60
+
+# Contoh 2:
+    Pengguna memasukkan tiga bilangan, yaitu 50, 70, 90
+
+    Masukkan bilangan pertama: 50
+    Masukkan bilangan kedua: 70
+    Masukkan bilangan keetiga: 90
+    Bilangan terbesar adalah 90
+
+
+
+
+
+
+
+
+
+
