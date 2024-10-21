@@ -139,16 +139,19 @@ berikut hasil screenshot dari pemrograman penggunaan seperator
 
    ![WhatsApp Image 2024-10-21 at 08 40 57](https://github.com/user-attachments/assets/20b1d674-69ce-436c-936e-d7f049bbb9f8)
 
-
+```PYTHON
     w, x, y, z,= 10, 15, 20, 25 
-
+````
 Variable yang seperti ini menentukan parameter, jadi variable ini tidak bisa memasukkan angka yang sudah di tentukan w=10, x=15, y=20, z=25 
 
+```PYTHON
   print(w, x, y, z,)
-
+````
 Fungsi ini hanya mencetak saja yang menggunakan fungsi print(), tetapi di karenakan mencetak parameter, koma tersebut di hilangkan. 
 
+```PYTHON
    print(w, x, y, z, sep=',')
+````
 
 Karena pemisahannya dihilangkan, kita menggunakan fungsi sep atau split() dan kita memasukkan pemisahnya dalam string akan memunculkan cetakan yang sesuai keinginan anda dalam mamisahkan sesuatu parameter.
 
