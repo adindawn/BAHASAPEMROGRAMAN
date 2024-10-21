@@ -234,3 +234,5 @@ b=int(b)
 print("hasil penjumlahan {1}+{0}=%d.format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d.format(a,b) %(a/b))
 ````
+
+ ![WhatsApp Image 2024-10-21 at 22 08 30](https://github.com/user-attachments/assets/8a343d56-8383-4764-9ffd-34ba066d8be6)
