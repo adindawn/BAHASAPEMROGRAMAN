@@ -28,13 +28,19 @@ while True:
 
     
   Masukkan bilangan (tekan 0 untuk berhenti): 80
+  
   Masukkan bilangan (tekan 0 untuk berhenti): 60
+  
   Masukkan bilangan (tekan 0 untuk berhenti): 20
+  
   Masukkan bilangan (tekan 0 untuk berhenti): 0
+  
   Bilangan terbesar adalah : 80.0
 
 # Berikut Hasil di Visual Studio Code
-    ![Screenshot (14)](https://github.com/user-attachments/assets/c2ac411d-b289-4600-bbbe-0ae6fe628a78)
+
+    ![Screenshot (11)](https://github.com/user-attachments/assets/702d0721-8f48-41a3-9598-3f08358e0401)
+
 
 
 
@@ -95,7 +101,7 @@ else:
     
 # Hasil Screenshot di Visual Studio Code 
    
-      ![Screenshot (12)](https://github.com/user-attachments/assets/6fd42b73-fb26-4f66-8574-84ded7b186c0)
+  ![Screenshot (12)](https://github.com/user-attachments/assets/6fd42b73-fb26-4f66-8574-84ded7b186c0)
 
 
 
@@ -167,7 +173,7 @@ else:
 # Praktikum 3
 # LATIHAN 1
 
-    ![Screenshot (15)](https://github.com/user-attachments/assets/c89d890d-1f72-45d7-b6bb-0f34904607fe)
+![Screenshot (15)](https://github.com/user-attachments/assets/82e535ce-fe7c-4980-8a82-760dc606484f)
 
 
 
