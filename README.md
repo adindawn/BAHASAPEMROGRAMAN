@@ -250,18 +250,48 @@ print(8, 10**8)
 print(9, 10**9)
 print(10, 10**10)
 
-print('{0:>3} {1:>16}'.format(0, 10**0))
-print('{0:>3} {1:>16}'.format(1, 10**1))
-print('{0:>3} {1:>16}'.format(2, 10**2))
-print('{0:>3} {1:>16}'.format(3, 10**3))
-print('{0:>3} {1:>16}'.format(4, 10**4))
-print('{0:>3} {1:>16}'.format(5, 10**5))
-print('{0:>3} {1:>16}'.format(6, 10**6))
-print('{0:>3} {1:>16}'.format(7, 10**7))
-print('{0:>3} {1:>16}'.format(8, 10**8))
-print('{0:>3} {1:>16}'.format(9, 10**9))
-print('{0:>3} {1:>16}'.format(10, 10**10))
+print('{0:>3} {1:>16}'.format(0, 10**0)
+print('{0:>3} {1:>16}'.format(1, 10**1)
+print('{0:>3} {1:>16}'.format(2, 10**2)
+print('{0:>3} {1:>16}'.format(3, 10**3)
+print('{0:>3} {1:>16}'.format(4, 10**4)
+print('{0:>3} {1:>16}'.format(5, 10**5)
+print('{0:>3} {1:>16}'.format(6, 10**6)
+print('{0:>3} {1:>16}'.format(7, 10**7)
+print('{0:>3} {1:>16}'.format(8, 10**8)
+print('{0:>3} {1:>16};.format(9, 10**9)
+print('{0:>3} {1:>16}'.format(10, 10**10)
 ````
 
+string format adalah proses memasukkan variable atau string kustom kedalam teks yang sudah ditentukan dan dapar digunakan untuk berbagi keperluan, seperti memasukkan judul dalam grafik menampilkan pesan atau kesalahan kesuatu fungsi
 
+```PYTHON
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**6)
+print(7, 10**7)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+````
+Nilai pertama dalam setiap pasangan adalah angka dari 0 hingga 10, kode programan ini dihitung dengan menggunakan operasi pangkat atau fungsinya (**) untuk menaikkan 10 kepangkat yang sesuai dengan angka pertama yang bisa dibahasa manusiakan variable 0 = 10 pangkat 0, variable 1 10 pangkat 1 dan seterusnya hingga variable 10 yaitu 10 pangkat 10, dan dicetak dengan fungsi print()
 
+```PYTHON
+print('{0:>3} {1:>16}'.format(0, 10**0)
+print('{0:>3} {1:>16}'.format(1, 10**1)
+print('{0:>3} {1:>16}'.format(2, 10**2)
+print('{0:>3} {1:>16}'.format(3, 10**3)
+print('{0:>3} {1:>16}'.format(4, 10**4)
+print('{0:>3} {1:>16}'.format(5, 10**5)
+print('{0:>3} {1:>16}'.format(6, 10**6)
+print('{0:>3} {1:>16}'.format(7, 10**7)
+print('{0:>3} {1:>16}'.format(8, 10**8)
+print('{0:>3} {1:>16};.format(9, 10**9)
+print('{0:>3} {1:>16}'.format(10, 10**10)
+````
+Kode ini mencetak 11 baris dengan format {0:3} {1:16} yang digunakan untuk mengatur format string.
+pada string pertama, angka 0 diformat untuk memiliki lebar 3 karakter atau yang bisa disebut 3 kali spasi dengan perataan kanan. angka 1 di format untuk memiliki lebar 16 karakter atau 16 kali spasi dengan perataan kanan, dan masing-masing mencetak nilai seperti format diatas dengan fungsi print().
