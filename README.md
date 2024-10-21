@@ -7,21 +7,22 @@ NIM   = 312410309
 program ini adalah sebuah aplikasi sederhana untuk menentukan bilangan terbesar dari sejumlah input yang diberikan oleh pengguna. program akan terus meminta pengguna untuk memasukkan bilangan sampai pengguna memasukkan angka 0, jika pengguna memasukka angka 0, program akan berhenti dan menampilkan bilangan terbesar yang telah dimasukkan.
 
 # Contoh Penggunaan
-bilangan_terbesar = float('-inf')
+
+bilangan_terbesar = float('-inf')  
 
 while True:
-    bilangan = float(input("masukkan bilangan  (tekan 0 untuk berhenti): "))
+    bilangan = float(input("Masukkan bilangan (tekan 0 untuk berhenti): "))
     if bilangan == 0:
-        break
+        break   
     if bilangan > bilangan_terbesar:
-       bilangan_terbesar = bilangan 
+        bilangan_terbesar = bilangan
 
 if bilangan_terbesar == float('-inf'):
     print("Tidak ada bilangan yang dimasukkan.")
 else:
-   print("Bilangan terbesar adalah:", bilangan_terbesar)
+    print("Bilangan terbesar adalah:", bilangan_terbesar
 
-
+    
 Masukkan bilangan (tekan 0 untuk berhenti): 80
 Masukkan bilangan (tekan 0 untuk berhenti): 60
 Masukkan bilangan (tekan 0 untuk berhenti): 20
@@ -73,6 +74,7 @@ Bilangan terbesar adalah : 80.0
 program ini di gunakan untuk menentukan bilangan tebesar dari tiga bilangan yang dimasukkan oleh pengguna. Program meminta tiga bilangan sebagai input, membandingkannya, dan kemudian mencetak bilangan terbesar diantara ketiga bilangan tersebut.
 
 # Kode Program
+
 a = int(input('Masukkan bilangan pertama: '))
 b = int(input('Masukkan bilangan kedua: '))
 c = int(input('Masukkan bilangan ketiga: '))
@@ -84,6 +86,7 @@ elif b > a and b > c:
 else:
     print(f'Bilangan terbesar adalah {c}')
 
+    
 # Hasil Screenshot di Visual Studio Code 
 
 
