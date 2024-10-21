@@ -33,9 +33,7 @@ while True:
   Masukkan bilangan (tekan 0 untuk berhenti): 0
   Bilangan terbesar adalah : 80.0
 
-
 # Berikut Hasil di Visual Studio Code
-
     ![Screenshot (14)](https://github.com/user-attachments/assets/c2ac411d-b289-4600-bbbe-0ae6fe628a78)
 
 
