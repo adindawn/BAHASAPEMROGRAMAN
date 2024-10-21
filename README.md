@@ -113,6 +113,7 @@ else:
 
 # Berikut adalah Flowchartnya
 
+ ![Untitled Diagram drawio](https://github.com/user-attachments/assets/e1bc1c5b-3006-49b8-b99c-278696291cf9)
 
 
 
