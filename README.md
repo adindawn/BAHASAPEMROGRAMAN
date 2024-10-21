@@ -35,7 +35,8 @@ else:
 
 # Berikut Hasil di Visual Studio Code
 
-     (https://github.com/user-attachments/assets/5e84aa04-91ee-42b6-8e9d-ead73d24b172)
+    ![WhatsApp Image 2024-10-21 at 08 14 58 (1)](https://github.com/user-attachments/assets/8ee1c039-5dfd-4428-ba3a-6f1f9f3fbcd3)
+
 
 
 
@@ -94,7 +95,7 @@ else:
     
 # Hasil Screenshot di Visual Studio Code 
    
-(https://github.com/user-attachments/assets/bedcb792-50c2-477e-9e0f-6cabb06b6da8)
+      ![WhatsApp Image 2024-10-21 at 08 21 06 (1)](https://github.com/user-attachments/assets/0ac9c3a8-aa3c-407b-974d-f764c3ae921f)
 
 
 
@@ -224,5 +225,6 @@ Karena pemisahannya dihilangkan, kita menggunakan fungsi sep atau split() dan ki
 
 # String Format 
 
-    ![WhatsApp Image 2024-10-21 at 08 51 52](https://github.com/user-attachments/assets/33806e15-dd94-470a-afc3-6966c481ecf7)
+    ![WhatsApp Image 2024-10-21 at 08 51 52 (1)](https://github.com/user-attachments/assets/61a31e21-a10e-41ee-9907-6660b02cf44e)
+
 
