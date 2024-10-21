@@ -3,6 +3,63 @@ NAMA  = Adinda Aulia Nabila Putri
 KELAS = TI.24.A.4
 NIM   = 312410309
 
+
+# Menentukan 3 Bilangan Terbesar
+Program ini di gunakan untuk menentukan bilangan terbesar dari tiga bilangan yang dimasukkan oleh pengguna.
+program meminta tiga bilangan sebagai input, membandingkannya, dan kemudian mencetak bilangan terbesar diantara
+ketiga bilangan tersebut.
+
+# Kode Program
+```PYTHON
+(a = int(input('Masukkan bilangan pertama: '))
+b = int(input('Masukkan bilangan kedua: '))
+c = int(input('Masukkan bilangan ketiga: '))
+
+if a > b and a > c:
+    print(f'Bilangan terbesar adalah {a}')
+elif b > a and b > c:
+    print(f'Bilangan terbesar adalah {b}')
+else:
+    print(f'Bilangan terbesar adalah {c}')
+````
+
+# Hasil Screenshot di Visual Studio Code 
+
+  ![Screenshot (12)](https://github.com/user-attachments/assets/f1a7a13c-df38-426b-8719-ecd058c3179e)
+
+# Berikut adalah Flowchartnya
+
+  ![Untitled Diagram drawio](https://github.com/user-attachments/assets/d4f596c6-dfa8-4667-aa26-f76ee470feb9)
+
+
+# Penjelasan Kode
+   1. Input Bilangan: Program meminta pengguna memasukkan tiga bilangan menggunakan fungsi input()
+      dan mengonversinya menjadi bilangan bulat (int), kemudian disimpan ke variable a, b, dan c.
+   2. Logika Penentu Bilangan Terbesar:
+       * Program menggunakan srtuktur kondisi in-elif-else untuk membandingkan ketiga bilangan.
+       * Bilangan A lebih besar dati B dan C, program akan mencetak bahwa A adalah bilangan terbesar.
+       * Jika B lebih besar dari A dan C, program akan mencetak bahwa B adalah bilangan terbesar.
+       * JIka tidak ada kondisi yang terpenuhi, program akan menganggap bahwa C adlah bilangan terbesar dan mencetaknya.
+   4. Output: Program akan mencetak bilangan terbesar yang ditemukan diantara ketiga bilangan yang diinputkan oleh pengguna.
+
+# Contoh Eksekusi Program 
+# Contoh 1 
+   Pengguna Masukkan tiga bilangan, yaitu 30, 60, 10
+
+   Masukkan bilangan pertama: 30
+   Masukkan bilangan kedua: 60
+   Masukkan bilangan ketiga: 10
+   Bilangan terbesar adalah 60
+
+# Contoh 2 
+   Pengguna Masukkan tiga bilangan, yaitu 50, 70, 90
+
+   Masukkan bilangan pertama: 50
+   Masukkan bilangan kedua: 70
+   Masukkan bilangan ketiga: 90
+   Bilangan terbesar adalah 90
+
+
 # Program Bilangan Terbesar
 program ini adalah sebuah aplikasi sederhana untuk menentukan bilangan terbesar dari sejumlah input yang diberikan oleh pengguna.
 program akan terus meminta pengguna untuk memasukkan bilangan sampai pengguna memasukkan angka 0, jika pengguna memasukka angka 0, 
@@ -79,106 +136,16 @@ while True:
      
          python pemrograman.py
 
-# Menentukan 3 Bilangan Terbesar
-program ini di gunakan untuk menentukan bilangan tebesar dari tiga bilangan yang dimasukkan oleh pengguna.
-Program meminta tiga bilangan sebagai input, membandingkannya, 
-dan kemudian mencetak bilangan terbesar diantara ketiga bilangan tersebut.
-
-# Kode Program
-```PYTHON
-(a = int(input('Masukkan bilangan pertama: '))
-b = int(input('Masukkan bilangan kedua: '))
-c = int(input('Masukkan bilangan ketiga: '))
-
-if a > b and a > c:
-    print(f'Bilangan terbesar adalah {a}')
-elif b > a and b > c:
-    print(f'Bilangan terbesar adalah {b}')
-else:
-    print(f'Bilangan terbesar adalah {c}') )
-````
 
     
-# Hasil Screenshot di Visual Studio Code 
-   
-  ![Screenshot (12)](https://github.com/user-attachments/assets/6fd42b73-fb26-4f66-8574-84ded7b186c0)
-
-
-
-
-
-
-
-
-
-# Berikut adalah Flowchartnya
-
- ![Untitled Diagram drawio](https://github.com/user-attachments/assets/e1bc1c5b-3006-49b8-b99c-278696291cf9)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Penjelasannya Kode
-  1. Input Bilangan: Program meminta pengguna memasukkan tiga bilangan menggunakan fungsi input()
-     dan mengonversinya menjadi bilangan bulat (int), 
-     kemudian di simpan ke variable a, b, dan c.
-  3. Logika Penentuan Bilangan Terbesar:
-         * Program menggunakan struktur kondisi if-elif-else untuk membandingkan ketiga bilangan.
-         * Bilangan A lebih besar dari B dan C, program akan mencetak bahwa A adalah bilangan terbesar.
-         * jika B lebihb besar dari A dan C, program akan mencetak bahwa B adalah bilangan terbesar.
-         * Jika tidak ada kondisi yang terpenuhi, program akan menganggap bahwa C adalah bilangan terbesar dan mencetaknya.
-  4. Output: Program akan mencetak bilangan terbesar yang ditemukan
-     di antara ketiga bilangan yang diinputkan oleh pengguna.
-
-# Contoh Eksekusi Program
-# Contoh 1:
-
-     Pengguna memasukkan tiga bilangan, yaitu 30, 60, 10
-
-     Masukkan bilangan pertama: 30
-     Masukkan bilangan kedua: 60
-     Masukkan bilangan ketiga: 10
-     Bilangan terbesar adalah 60
-
-# Contoh 2:
-
-    Pengguna memasukkan tiga bilangan, yaitu 50, 70, 90
-
-    Masukkan bilangan pertama: 50
-    Masukkan bilangan kedua: 70
-    Masukkan bilangan keetiga: 90
-    Bilangan terbesar adalah 90
-
-
 
 ![WhatsApp Image 2024-10-21 at 08 28 05 (1)](https://github.com/user-attachments/assets/f5a9fdba-39d9-4799-9e1b-0e2aa9195f9e)
-
-
-
-
-
 
 
 # Praktikum 3
 # LATIHAN 1
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/82e535ce-fe7c-4980-8a82-760dc606484f)
-
-
-
-
 
 
 ``` PYTHON
