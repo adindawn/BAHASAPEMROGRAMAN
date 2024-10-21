@@ -3,8 +3,11 @@ NAMA  = Adinda Aulia Nabila Putri
 KELAS = TI.24.A.4
 NIM   = 312410309
 
+# Praktikum 3
 
-# Menentukan 3 Bilangan Terbesar
+![WhatsApp Image 2024-10-21 at 08 28 05 (1)](https://github.com/user-attachments/assets/f5a9fdba-39d9-4799-9e1b-0e2aa9195f9e)
+   
+# Bilangan Terbesar dari 3 Bilangan 
 Program ini di gunakan untuk menentukan bilangan terbesar dari tiga bilangan yang dimasukkan oleh pengguna.
 program meminta tiga bilangan sebagai input, membandingkannya, dan kemudian mencetak bilangan terbesar diantara
 ketiga bilangan tersebut.
@@ -90,12 +93,6 @@ while True:
 
 
 
-
-
-![WhatsApp Image 2024-10-21 at 08 28 05 (1)](https://github.com/user-attachments/assets/f5a9fdba-39d9-4799-9e1b-0e2aa9195f9e)
-
-
-# Praktikum 3
 # LATIHAN 1
 
 ![Screenshot (15)](https://github.com/user-attachments/assets/82e535ce-fe7c-4980-8a82-760dc606484f)
@@ -219,3 +216,21 @@ print('{0:>3} {1:>16}'.format(10, 10**10)
 ````
 Kode ini mencetak 11 baris dengan format {0:3} {1:16} yang digunakan untuk mengatur format string.
 pada string pertama, angka 0 diformat untuk memiliki lebar 3 karakter atau yang bisa disebut 3 kali spasi dengan perataan kanan. angka 1 di format untuk memiliki lebar 16 karakter atau 16 kali spasi dengan perataan kanan, dan masing-masing mencetak nilai seperti format diatas dengan fungsi print().
+
+# Latihan 2
+
+![WhatsApp Image 2024-10-21 at 21 16 51](https://github.com/user-attachments/assets/bbc3ccc4-792b-4470-8c60-4025c08ea978)
+
+```PYTHON
+a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+print("variable a=",a)
+print("variable b=",b)
+print("hasil penggabungan {1}&{0}=%d.format(a,b) %(a+b))
+
+#Konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil penjumlahan {1}+{0}=%d.format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d.format(a,b) %(a/b))
+````
