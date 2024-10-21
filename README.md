@@ -42,23 +42,6 @@ else:
        * JIka tidak ada kondisi yang terpenuhi, program akan menganggap bahwa C adlah bilangan terbesar dan mencetaknya.
    4. Output: Program akan mencetak bilangan terbesar yang ditemukan diantara ketiga bilangan yang diinputkan oleh pengguna.
 
-# Contoh Eksekusi Program 
-# Contoh 1 
-   Pengguna Masukkan tiga bilangan, yaitu 30, 60, 10
-
-   Masukkan bilangan pertama: 30
-   Masukkan bilangan kedua: 60
-   Masukkan bilangan ketiga: 10
-   Bilangan terbesar adalah 60
-
-# Contoh 2 
-   Pengguna Masukkan tiga bilangan, yaitu 50, 70, 90
-
-   Masukkan bilangan pertama: 50
-   Masukkan bilangan kedua: 70
-   Masukkan bilangan ketiga: 90
-   Bilangan terbesar adalah 90
-
 
 # Program Bilangan Terbesar
 program ini adalah sebuah aplikasi sederhana untuk menentukan bilangan terbesar dari sejumlah input yang diberikan oleh pengguna.
@@ -83,7 +66,7 @@ while True:
       print("Bilangan terbesar adalah:", bilangan_terbesar) )
 ````
 
-    
+```PYTHON  
   Masukkan bilangan (tekan 0 untuk berhenti): 80
   
   Masukkan bilangan (tekan 0 untuk berhenti): 60
@@ -93,6 +76,7 @@ while True:
   Masukkan bilangan (tekan 0 untuk berhenti): 0
   
   Bilangan terbesar adalah : 80.0
+````
 
 # Berikut Hasil di Visual Studio Code
 
@@ -100,44 +84,13 @@ while True:
 
 
 
-
-
-
-
-
-
-
-
 # Berikut Hasil Flowchartnya
    
+![Untitled Diagram drawio (1)](https://github.com/user-attachments/assets/fcf22f7c-f535-4bbf-8595-b357fb3542fe)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-# Persyaratannya 
-  * Pyton 3.x harus sudah teristal di sistem
-
-# Cara Menjalakannya 
-  1. Pastikan Pyton sudah ter-instal di komputer
-  2. Simpan kode program dalam file bernama pemprograman.py
-  3. Bukan terminal atau command prompt
-  4. Jalankan program dengan perintah berikut:
-     
-         python pemrograman.py
-
-
-    
 
 ![WhatsApp Image 2024-10-21 at 08 28 05 (1)](https://github.com/user-attachments/assets/f5a9fdba-39d9-4799-9e1b-0e2aa9195f9e)
 
@@ -187,7 +140,7 @@ berikut hasil screenshot dari pemrograman penggunaan seperator
    ![WhatsApp Image 2024-10-21 at 08 40 57](https://github.com/user-attachments/assets/20b1d674-69ce-436c-936e-d7f049bbb9f8)
 
 
-w, x, y, z,= 10, 15, 20, 25 
+    w, x, y, z,= 10, 15, 20, 25 
 
 Variable yang seperti ini menentukan parameter, jadi variable ini tidak bisa memasukkan angka yang sudah di tentukan w=10, x=15, y=20, z=25 
 
